@@ -3,7 +3,7 @@
 ## Usage
 
 ```console
-./dict --f pl_full.txt -s pl.txt -o pl.dict --header "dictionary=lepszy:pl,locale=pl,description=ulepszony polski słownik od Bartka,date=$(date +%s),version=1"
+./dict -f pl_full.txt -s pl.txt -o pl.dict --header "dictionary=lepszy:pl,locale=pl,description=ulepszony polski słownik od Bartka,date=$(date +%s),version=1"
 ```
 
 where:
